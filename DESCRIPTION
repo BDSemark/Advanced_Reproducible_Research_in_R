@@ -16,3 +16,5 @@ Suggests:
     gitcreds,
     styler,
     usethis
+URL: https://github.com/BDSemark/Advanced_Reproducible_Research_in_R
+BugReports: https://github.com/BDSemark/Advanced_Reproducible_Research_in_R/issues
